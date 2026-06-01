@@ -1,0 +1,6 @@
+{
+  "name": "Fortune Navigator",
+  "description": "Multi-currency expense tracker, crypto/stock portfolio manager, and dynamic visualizer with offline-first background live price synchronization and Gemini-based personal investment insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
